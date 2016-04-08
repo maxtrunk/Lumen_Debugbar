@@ -1,4 +1,7 @@
 ## Lumen Debugbar
+[![Packagist License](https://poser.pugx.org/maxtrunk/lumen-debugbar/license.png)](http://choosealicense.com/licenses/mit/)
+[![Latest Stable Version](https://poser.pugx.org/maxtrunk/lumen-debugbar/version.png)](https://packagist.org/packages/maxtrunk/lumen-debugbar)
+[![Total Downloads](https://poser.pugx.org/maxtrunk/lumen-debugbar/d/total.png)](https://packagist.org/packages/maxtrunk/lumen-debugbar)
 
 
 This is a package to integrate [PHP Debug Bar](http://phpdebugbar.com/) with Lumen.

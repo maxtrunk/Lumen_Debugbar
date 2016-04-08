@@ -1,0 +1,31 @@
+{
+    "name": "maxtrunk/laravel-debugbar",
+    "description": "PHP Debugbar integration for Lumen",
+    "keywords": ["Lumen", "debugbar", "debug"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tony Lee",
+            "email": "var.tonylee@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.1.*|5.2.*",
+        "symfony/finder": "~2.7|~3.0",
+        "maximebf/debugbar": "~1.11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Maxtrunk\\Debugbar\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.2-dev"
+        }
+    }
+}

@@ -1,5 +1,5 @@
 {
-    "name": "maxtrunk/laravel-debugbar",
+    "name": "maxtrunk/lumen-debugbar",
     "description": "PHP Debugbar integration for Lumen",
     "keywords": ["Lumen", "debugbar", "debug"],
     "license": "MIT",
